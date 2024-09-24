@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/mortgage-repayment-calculator.git
+   git clone https://github.com/nalon03/mortgage-repayment-calculator.git
 
 Navigate to the project directory:
 cd mortgage-repayment-calculator
@@ -65,5 +65,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 Feel free to reach out to me via email at nalongrace03@gmail.com if you have any questions or suggestions.
-Live Preview
-Check out the live preview of the project here 
+
+
