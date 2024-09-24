@@ -65,3 +65,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 Feel free to reach out to me via email at nalongrace03@gmail.com if you have any questions or suggestions.
+Live Preview
+Check out the live preview of the project here 
